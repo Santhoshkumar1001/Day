@@ -1,0 +1,24 @@
+Window & Document Different.
+
+The Window and Document Object are two of the Parent Objects that we can access with JavaScript. The document object itself is subordinate to the window object. I thing every this is a DOM Tree Structures.
+
+ The Window was already inbuilt the Chrome -> V8 Engine -> Console -> Window.
+
+The document inbuilt to the Window -> Document.
+
+JavaScript variable everything directly work with window Tree & any html relevant Tag work with Document Tree. Both are working each and every variable and Tag worked by DOM Tree Structure.
+
+Window Include to Address bar, Front and Back key, Reload key everything and document only for body structure only. 
+
+
+1.The window is at a root/top level at the JavaScript object hierarchy. It  is a global/root object in JavaScript and it is the root object of the Document object model(DOM);
+
+Syntax :
+
+Console -> Window
+
+2.A document is an object inside the window object and we use a document object for manipulation inside the document
+
+Syntax :
+
+Console -> Document 
